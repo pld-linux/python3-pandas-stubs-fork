@@ -2,7 +2,7 @@ Summary:	Type annotations for pandas
 Summary(pl.UTF-8):	Adnotacje typów dla pandasa
 Name:		python3-pandas-stubs-fork
 Version:	1.5.3.230214
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pandas-stubs-fork/
